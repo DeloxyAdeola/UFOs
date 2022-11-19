@@ -11,7 +11,7 @@ The user can filter the data by entering a value in the input box and when click
 For example, if the user wanted to see all of the UFO sightings in the city of San Diego, they would enter "san diego" in the state input box and the table would update to show only the data for that city:
 
 Figure 2
-[alt text](image_url) 
+[alt text]([image_url](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%202.png)) 
 The user can then filter the data with the following categories (placeholder text is shown in the input boxes to help the user know what to enter):
 
 Figure 3
