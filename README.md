@@ -1,22 +1,22 @@
-# UFOs
-The main  purpose of this project is to build a webpage that displays UFO sightings from a data.js file and also creat a function that allows the users to filter that data. My webpage was built with HTML, CSS, and JavaScript, with additional functionality provided by Bootstrap and D3.js. 
+# UFO SIGHTING 
+OVERVIEW 
+The main  purpose of this project is to build a webpage that displays UFO sightings from a data.We used HTML,CSS styling, JavaScript with other functions like D3.js and Bootstrap. file and also creat a function that allows the users to filter that data.The Webpage response to the diffrent functions used in bulding it.
 
-Results
-The data on the webpage is originally shown in a table format as such:
-
-Figure 1
+RESULT
+The Png attached to this paragraph is the data is a sreenshot from the webpage displayed as coded.
+fig 1.
 [alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%201.png) 
-The user can filter the data by entering a value in the input box and when clicking out of the box, the table will automatically update to show only the data that matches the filter criteria.
+
+fig 2
+Beneath is another screenshot from my webpage where the the user of the page will be able to filter the data.
+[alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%202.png)
+The way this works is that the user will enter any value which the want to search for into the input box, then when you click out of the box, the table will automatically update to the citeria that has been filtered.
 
 For example, if the user wanted to see all of the UFO sightings in the city of San Diego, they would enter "san diego" in the state input box and the table would update to show only the data for that city.
 
-Figure 2
-[alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%202.png)
-The user can then filter the data with the following categories (placeholder text is shown in the input boxes to help the user know what to enter):
-
 Figure 3
 [alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%203.png)
-Summary
-A little concern about this filtering system is that a user willhave to  apply the input so that the table will update every time the user clicks out of the input box. For a novice who might not really understand systems and the logic behind getting additional information This can be a bit distracting for the user and can make it difficult to see the data that is being filtered. They may not be aware that they need to click an input box.
+SUMMARY
+A little concern about this filtering system is that a user will have to  apply the input so that the table will update every time the user clicks out of the input box. For a novice who might not really understand systems and the logic behind getting additional information This can be a bit distracting for the user and can make it difficult to see the data that is being filtered. They may not be aware that they need to click an input box.
 
 I would recommendation for further development that  would be to continuously update the table as the user types in the input box. This would allow the user to see the data that is being filtered as they type and would make it easier to see the data that is being filtered. 
