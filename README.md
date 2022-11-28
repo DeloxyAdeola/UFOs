@@ -12,7 +12,7 @@ fig 1.
 FILTER IMAGE
 
 Beneath is another screenshot from my webpage where the the user of the page will be able to filter the data.
-[alt text](https://https://github.com/DeloxyAdeola/UFOs/blob/main/filter%20Image.png)
+[alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/filter%20Image.png)
 The way this works is that the user will enter any value which the want to search for into the input box, then when you click out of the box, the table will automatically update to the citeria that has been filtered.
 
 For example, if the user wanted to see all of the UFO sightings in the city of ar, they would enter "ar" in the state input box and the table would update to show only the data for that city.
