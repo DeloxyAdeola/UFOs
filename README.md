@@ -3,11 +3,13 @@ OVERVIEW
 The main  purpose of this project is to build a webpage that displays UFO sightings from a data.We used HTML,CSS styling, JavaScript with other functions like D3.js and Bootstrap. file and also creat a function that allows the users to filter that data.The Webpage response to the diffrent functions used in bulding it.
 
 RESULT
+
 The Png attached to this paragraph is the data is a sreenshot from the webpage displayed as coded.
 fig 1.
 [alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%201.png) 
 
 fig 2
+
 Beneath is another screenshot from my webpage where the the user of the page will be able to filter the data.
 [alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%202.png)
 The way this works is that the user will enter any value which the want to search for into the input box, then when you click out of the box, the table will automatically update to the citeria that has been filtered.
@@ -15,6 +17,7 @@ The way this works is that the user will enter any value which the want to searc
 For example, if the user wanted to see all of the UFO sightings in the city of San Diego, they would enter "san diego" in the state input box and the table would update to show only the data for that city.
 
 SUMMARY
+
 Figure 3
 [alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%203.png)
 
