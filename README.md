@@ -7,7 +7,7 @@ RESULT
 
 The Png attached to this paragraph is the data is a sreenshot from the webpage displayed as coded.
 fig 1.
-[alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%201.png) 
+[alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/UFO%20Sighting%20.png) 
 
 FILTER IMAGE
 
