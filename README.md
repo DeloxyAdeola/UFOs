@@ -9,7 +9,7 @@ The Png attached to this paragraph is the data is a sreenshot from the webpage d
 fig 1.
 [alt text](https://github.com/DeloxyAdeola/UFOs/blob/main/fig%201.png) 
 
-fig 2
+FILTER IMAGE
 
 Beneath is another screenshot from my webpage where the the user of the page will be able to filter the data.
 [alt text](https://https://github.com/DeloxyAdeola/UFOs/blob/main/filter%20Image.png)
